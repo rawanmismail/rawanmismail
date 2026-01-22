@@ -8,13 +8,12 @@
 
 <!--Header Name-->
 # 👋 Hi, I’m Rawan  
-*Computer Science Student / Beginner Developer*
+*Computer Science Student at Heriot Watt University*
 <br />
 
 <!--Start Intro-->               
 <p align="left">
-I’m a Computer Science student who is currently learning programming and building small projects to grow my skills. 
-I’m interested in software development and enjoy learning by practicing and experimenting.
+I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving.
 </p>
 
 - 🎓 Computer Science student  
