@@ -30,7 +30,7 @@ I’m a Computer Science student focused on software development, with an intere
 <ul align="left">
   <li>University assignments</li>
   <li>Practice coding projects</li>
-  <li>Simple web pages and experiments</li>
+  <li>Personal projects</li>
 </ul>
 
 <p align="left"><i>More projects will be added as I continue learning 🚀</i></p>
@@ -41,7 +41,7 @@ I’m a Computer Science student focused on software development, with an intere
 <h2 align="center">🎯 Current Goals</h2>
 
 <ul align="left">
-  <li>Improve coding confidence and consistency</li>
+  <li>Improve coding consistency</li>
   <li>Build small but complete projects</li>
   <li>Strengthen understanding of core CS concepts</li>
 </ul>
@@ -58,7 +58,7 @@ I’m a Computer Science student focused on software development, with an intere
 ---
 
 <!--Contact Section--> 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">🤝 Connect Me</h2>
 
 <div align="center">
 
