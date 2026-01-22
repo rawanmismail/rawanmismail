@@ -46,14 +46,7 @@ I’m a Computer Science student focused on software development, with an intere
   <li>Strengthen understanding of core CS concepts</li>
 </ul>
 
----
 
-<!--Quote-->
-<h2 align="center">🌟 Thought of the Day</h2>
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?quote=Small%20steps%20every%20day%20lead%20to%20big%20results.&theme=light">
-</p>
 
 ---
 
@@ -75,8 +68,19 @@ I’m a Computer Science student focused on software development, with an intere
 </a>
 
 <a href="mailto:rawan.mohamedismail@yahoo.com">
-  <img align="left" alt="Email" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  <img align="left" alt="Email" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-plain.svg" />
 </a>
+
+</a>
+
+---
+
+<!--Quote-->
+<h2 align="center">🌟 Thought of the Day</h2>
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?quote=Small%20steps%20every%20day%20lead%20to%20big%20results.&theme=light">
+</p>
 
 <br />
 <br />
