@@ -17,31 +17,15 @@ I’m a Computer Science student focused on software development, with an intere
 </p>
 
 - 🎓 Computer Science student  
-- 🌱 Currently learning programming fundamentals and web development  
-- 💻 Exploring GitHub, version control, and small projects  
+- 🌱 Currently developing programming fundamentals  
 - 📍 Based in the UAE  
 <!--End Intro-->
-
----
-
-<!--Tech Stack Section-->       
-<h2 align="center">🛠️ What I’m Learning</h2>
-
-<ul align="left">
-  <li>Programming fundamentals</li>
-  <li>HTML, CSS, and basic JavaScript</li>
-  <li>Git & GitHub for version control</li>
-  <li>Problem-solving and logical thinking</li>
-</ul>
 
 ---
 
 <!--Projects Section-->
 <h2 align="center">📂 Projects</h2>
 
-<p align="left">
-Most of my repositories are related to university coursework, practice exercises, and small experiments as I learn.
-</p>
 
 <ul align="left">
   <li>University assignments</li>
