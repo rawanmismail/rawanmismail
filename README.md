@@ -1,5 +1,5 @@
 <!--Banner-->
-!github-header-banner.png
+![Rawan Banner Image](./github-header-banner.png)
 
 <!--Header Name-->
 # 👋 Hi, I’m Rawan  
