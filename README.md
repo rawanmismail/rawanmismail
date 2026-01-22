@@ -57,20 +57,29 @@ I’m a Computer Science student focused on software development, with an intere
 
 ---
 
+<!--Coding Languages--!>>
+<h2 align="center">💻 I Code With...</h2>
+
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+---
+
 <!--Contact Section--> 
 <h2 align="center">🤝 Contact Me</h2>
 
-<div align="center">
-
-<a href="https://github.com/rawanmohamed-28" target="_blank">
-<img src="./github.png" width=45 height=45 alt="GitHub" />
+<a href="www.linkedin.com/in/rawan28-" target="_blank">
+  <img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="./linkedin.png" width=45 height=45 alt="LinkedIn" />
+<a href="mailto:rawan.mohamedismail@yahoo.com">
+  <img align="left" alt="Email" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 
-</div>
+<br />
+<br />
 
 ---
 
