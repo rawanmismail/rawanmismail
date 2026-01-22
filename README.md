@@ -41,6 +41,10 @@ I’m a Computer Science student focused on software development, with an intere
 <h2 align="center">💻 I Code With...</h2>
 
 <p align="center">
+  <img alt="Skills Animation" src="./Skills_Animation_Dark.gif" width="70%" />
+</p>
+
+<p align="center">
 <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
