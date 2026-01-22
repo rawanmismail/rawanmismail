@@ -58,7 +58,7 @@ I’m a Computer Science student focused on software development, with an intere
 ---
 
 <!--Contact Section--> 
-<h2 align="center">🤝 Connect Me</h2>
+<h2 align="center">🤝 Contact Me</h2>
 
 <div align="center">
 
