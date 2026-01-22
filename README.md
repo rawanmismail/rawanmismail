@@ -3,8 +3,6 @@
 
 <!--Header Name-->
 # 👋 Hi, I’m Rawan  
-*Computer Science Student at Heriot-Watt University*  
-<br />
 
 <!--Intro-->               
 I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving.
