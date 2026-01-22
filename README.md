@@ -59,9 +59,7 @@ I’m a Computer Science student focused on software development, with an intere
 <a href="https://www.linkedin.com/in/rawan28-" target="_blank">
   <img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="mailto:rawan.mohamedismail@yahoo.com">
-  <img alt="Yahoo Mail" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Yahoo_logo.svg" />
-</a>
+
 </p>
 
 ---
