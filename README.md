@@ -2,7 +2,7 @@
 ![Rawan Banner Image](./github-header-banner.png)
 
 <!--Header Name-->
-# 👋 Hi, I’m Rawan  
+# Hi, I’m Rawan  
 
 <!--Intro-->               
 I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving.
