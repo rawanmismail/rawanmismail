@@ -11,7 +11,7 @@ I’m a Computer Science student focused on software development, with an intere
 - 🌱 Developing programming fundamentals  
 - 📍 Based in the UAE  
 
----
+--- 
 
 <!--Projects Section-->
 <h2 align="center">📂 Projects</h2>
