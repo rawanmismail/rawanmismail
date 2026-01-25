@@ -25,7 +25,7 @@
   <li>Build small but complete projects</li> 
   <li>Strengthen understanding of core CS concepts</li> 
 
-</ul> --- <!--Coding Languages--> 
+</ul><!--Coding Languages--> 
 <h2 align="center">💻 I Code With...</h2> 
 <p align="left"> 
   <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
