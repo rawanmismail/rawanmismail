@@ -13,9 +13,9 @@
 <!--Projects Section--> 
 <h2 align="center">📂 Projects</h2> 
 <ul align="left"> 
-  <li>• University assignments</li> 
-  <li>• Practice coding projects</li> 
-  <li>• Personal projects</li> 
+  <li>University assignments</li> 
+  <li>Practice coding projects</li> 
+  <li>Personal projects</li> 
 </ul> <p align="left"><i>More projects will be added as I continue growing 🚀</i>
 
 </p> --- <!--Current Goals--> 
