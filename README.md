@@ -22,7 +22,7 @@
 <h2 align="center">🎯 Current Goals</h2> 
 <ul align="left"> 
   <li>• Improve coding consistency</li> 
-  <li>• Build small but complete projects</li> 
+  <li>•Build small but complete projects</li> 
   <li>Strengthen understanding of core CS concepts</li> 
 
 </ul> --- <!--Coding Languages--> 
