@@ -18,7 +18,7 @@
   <li>Personal projects</li> 
 </ul> <p align="left"><i>More projects will be added as I continue growing 🚀</i>
 
-</p> --- <!--Current Goals--> 
+</p><!--Current Goals--> 
 <h2 align="center">🎯 Current Goals</h2> 
 <ul align="left"> 
   <li>• Improve coding consistency</li> 
