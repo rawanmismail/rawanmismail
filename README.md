@@ -23,7 +23,7 @@
 <ul align="left"> 
   <li>• Improve coding consistency</li> 
   <li>• Build small but complete projects</li> 
-  <li>• Strengthen understanding of core CS concepts</li> 
+  <li>Strengthen understanding of core CS concepts</li> 
 
 </ul> --- <!--Coding Languages--> 
 <h2 align="center">💻 I Code With...</h2> 
