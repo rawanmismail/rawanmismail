@@ -40,6 +40,7 @@
   <a href="https://www.linkedin.com/in/rawan28-" target="_blank"> <img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a> </p> 
   
   
-  --- <!--Quote--> <h2 align="center">🌟 Thought of the Day</h2> <p align="center"> 
+<!--Quote--> 
+<h2 align="center">🌟 Thought of the Day</h2> <p align="center"> 
   <img src="https://readme-daily-quotes.vercel.app/api?quote=Small%20steps%20every%20day%20lead%20to%20big%20results.&theme=light"> </p> --- <!--Footer--> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/> 
   </p>
