@@ -10,7 +10,7 @@
 •📍 Based in the UAE
 
 
---- <!--Projects Section--> 
+<!--Projects Section--> 
 <h2 align="center">📂 Projects</h2> 
 <ul align="left"> 
   <li>• University assignments</li> 
