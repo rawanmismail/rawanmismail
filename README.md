@@ -34,7 +34,7 @@
   <img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 
-</p> ---<!--Contact Section--> 
+</p> --<!--Contact Section--> 
 <h2 align="center">🤝 Contact Me</h2> 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/rawan28-" target="_blank"> <img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a> </p> 
