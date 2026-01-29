@@ -5,9 +5,9 @@
 # Hi, I’m Rawan 
 
 <!--Intro--> I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving. 
-🎓 Computer Science student</ul>
+🎓 Computer Science student
 🌱 Developing programming fundamentals</ul>
-<ul>📍 Based in the UAE</ul>
+📍 Based in the UAE
 
 
 <!--Projects Section--> 
