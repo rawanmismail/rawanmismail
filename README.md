@@ -12,7 +12,7 @@
 
 <!--Projects Section--> 
 <h2 align="center">📂 Projects</h2> 
-<ul align="left"> 
+<ul align="left">  
   <li>University assignments</li> 
   <li>Practice coding projects</li> 
   <li>Personal projects</li> 
