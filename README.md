@@ -6,8 +6,8 @@
 
 <!--Intro--> I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving. 
 <p>🎓 Computer Science student</p>
-🌱 Developing programming fundamentals
-📍 Based in the UAE
+<p>🌱 Developing programming fundamentals</p>
+<p>📍 Based in the UAE</p>
 
 
 <!--Projects Section--> 
