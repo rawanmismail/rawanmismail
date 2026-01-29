@@ -4,7 +4,7 @@
 <!--Header Name--> 
 # Hi, I’m Rawan 
 
-<!--Intro--> I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving. 
+<!--Intro--> <p>I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving. </p>
 <p>🎓 Computer Science student</p>
 <p>🌱 Developing programming fundamentals</p>
 <p>📍 Based in the UAE</p>
