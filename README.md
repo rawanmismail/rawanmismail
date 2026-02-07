@@ -8,7 +8,7 @@
   Welcome to my GitHub profile! <br/>
   I’m a <b>Computer Science student</b> focused on software development and problem-solving, 
   with a growing interest in building practical, real-world solutions. <br/>
-  📍 Based in <b>UAE</b>
+ 
 </p>
 
 ---
