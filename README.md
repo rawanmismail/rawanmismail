@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rawanmismail&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
@@ -56,21 +56,15 @@
 <!-- GITHUB METRICS -->
 <h3>GitHub Activity</h3>
 
-<img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME
-?template=classic
-&isocalendar=1
-&languages=1
-&languages.limit=6
-&activity=1
-&habits=1
-&base.indepth=true" />
+<img src="https://metrics.lecoq.io/rawanmismail?template=classic&isocalendar=1&languages=1&languages.limit=6&activity=1&habits=1&base.indepth=true" />
+
 
 ---
 
 <!-- CONTACT -->
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/rawanmismail" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rawan28-" target="_blank">
