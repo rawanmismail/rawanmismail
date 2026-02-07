@@ -11,19 +11,14 @@
   📍 Based in <b>UAE</b>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
 ---
 
 <!-- ABOUT -->
-<h3>About me</h3>
+<h3>About Me</h3>
 <ul>
   <li>🎓 Computer Science student</li>
-  <li>💻 Interested in software development & databases</li>
-  <li>🌱 Strengthening programming fundamentals</li>
-  <li>🚀 Building small but complete projects</li>
+  <li>💻 Interested in software development & artificial intelligence</li>
+  <li>🌱 Strengthening programming skills</li>
 </ul>
 
 ---
@@ -32,7 +27,6 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=white" />
@@ -50,27 +44,13 @@
   <li>🛠 Personal projects to apply core CS concepts</li>
 </ul>
 <p><i>More projects coming as I continue learning and building.</i></p>
-
----
-
-<!-- GITHUB METRICS -->
-<h3>GitHub Activity</h3>
-
-<img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME
-?template=classic
-&isocalendar=1
-&languages=1
-&languages.limit=6
-&activity=1
-&habits=1
-&base.indepth=true" />
-
+ 
 ---
 
 <!-- CONTACT -->
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/rawanmismail" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rawan28-" target="_blank">
@@ -79,12 +59,6 @@
 </p>
 
 ---
-
-<!-- QUOTE -->
-<p align="center">
-  <i>Small steps every day lead to big results.</i>
-</p>
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
