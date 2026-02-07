@@ -48,11 +48,15 @@
 <p><i>More projects coming as I continue learning and building.</i></p>
 
 
-<!-- GITHUB METRICS -->
-<h3>GitHub Activity</h3>
+<h2 align="center">📊 GitHub Activity</h2>
 
-<img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&base=header,activity,community,repositories&isocalendar=1&languages=1&habits=1" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&theme=default&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawanmismail&theme=default&hide_border=true" />
+</p>
 
 
 <!-- CONTACT -->
