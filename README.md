@@ -25,10 +25,9 @@
   <li>Build small but complete projects</li> 
   <li>Strengthen understanding of core CS concepts</li> 
 
-</ul><!--Coding Languages--> 
-<h2 align="right">💻 I Code With</h2>
+<h2 align="center">💻 I Code With</h2>
 
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
