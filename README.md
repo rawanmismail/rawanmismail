@@ -11,11 +11,7 @@
   📍 Based in <b>UAE</b>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rawanmismail&style=flat-square&color=blue" alt="profile views"/>
-</p>
 
----
 
 <!-- ABOUT -->
 <h3>About me</h3>
@@ -26,7 +22,7 @@
   <li>🚀 Building small but complete projects</li>
 </ul>
 
----
+
 
 <!-- TECH STACK -->
 <h3>Things I code with</h3>
@@ -40,7 +36,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
----
+
 
 <!-- PROJECTS -->
 <h3>Projects</h3>
@@ -51,15 +47,13 @@
 </ul>
 <p><i>More projects coming as I continue learning and building.</i></p>
 
----
 
 <!-- GITHUB METRICS -->
 <h3>GitHub Activity</h3>
 
-<img src="https://metrics.lecoq.io/rawanmismail?template=classic&isocalendar=1&languages=1&languages.limit=6&activity=1&habits=1&base.indepth=true" />
+<img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&base=header,activity,community,repositories&isocalendar=1&languages=1&habits=1" />
 
 
----
 
 <!-- CONTACT -->
 <h3>Where to find me</h3>
@@ -72,7 +66,7 @@
   </a>
 </p>
 
----
+
 
 <!-- QUOTE -->
 <p align="center">
