@@ -1,51 +1,91 @@
-<!--Banner--> 
-![Rawan Banner Image](./github-header-banner.png) 
+<!-- HEADER -->
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hi, I’m Rawan
+</h1>
 
-<!--Header Name--> 
-# Hi, I’m Rawan 
-
-<!--Intro--> <p>I’m a Computer Science student focused on software development, with an interest in turning ideas into practical solutions through applied problem-solving. </p>
-<p>🎓 Computer Science student</p>
-<p>🌱 Developing programming fundamentals</p>
-<p>📍 Based in the UAE</p> 
-
-
-<!--Projects Section--> 
-<h2 align="center">📂 Projects</h2> 
-<ul align="left">  
-  <li>University assignments</li> 
-  <li>Practice coding projects</li> 
-  <li>Personal projects</li> 
-</ul> <p align="left"><i>More projects will be added as I continue growing 🚀</i>
-
-</p><!--Current Goals--> 
-<h2 align="center">🎯 Current Goals</h2> 
-<ul align="left"> 
-  <li>Improve coding consistency</li> 
-  <li>Build small but complete projects</li> 
-  <li>Strengthen understanding of core CS concepts</li> 
-
-<h2 align="center">💻 I Code With</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  Welcome to my GitHub profile! <br/>
+  I’m a <b>Computer Science student</b> focused on software development and problem-solving, 
+  with a growing interest in building practical, real-world solutions. <br/>
+  📍 Based in <b>UAE</b>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="profile views"/>
+</p>
 
-</p><!--Contact Section--> 
-<h2 align="center">🤝 Contact Me</h2> 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/rawan28-" target="_blank"> <img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a> </p> 
-  
-  
-<!--Quote--> 
-<h2 align="center">🌟 Thought of the Day</h2> <p align="center"> 
-  <img src="https://readme-daily-quotes.vercel.app/api?quote=Small%20steps%20every%20day%20lead%20to%20big%20results.&theme=light"> </p> --- <!--Footer--> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/> 
-  </p>
-  
+---
 
+<!-- ABOUT -->
+<h3>About me</h3>
+<ul>
+  <li>🎓 Computer Science student</li>
+  <li>💻 Interested in software development & databases</li>
+  <li>🌱 Strengthening programming fundamentals</li>
+  <li>🚀 Building small but complete projects</li>
+</ul>
+
+---
+
+<!-- TECH STACK -->
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+<!-- PROJECTS -->
+<h3>Projects</h3>
+<ul>
+  <li>📂 University coursework & assignments</li>
+  <li>🧠 Practice projects in Python & SQL</li>
+  <li>🛠 Personal projects to apply core CS concepts</li>
+</ul>
+<p><i>More projects coming as I continue learning and building.</i></p>
+
+---
+
+<!-- GITHUB METRICS -->
+<h3>GitHub Activity</h3>
+
+<img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME
+?template=classic
+&isocalendar=1
+&languages=1
+&languages.limit=6
+&activity=1
+&habits=1
+&base.indepth=true" />
+
+---
+
+<!-- CONTACT -->
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rawan28-" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- QUOTE -->
+<p align="center">
+  <i>Small steps every day lead to big results.</i>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
