@@ -1,65 +1,135 @@
-<!-- HEADER -->
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hi, I’m Rawan
-</h1>
-
-<p>
-  Welcome to my GitHub profile! <br/>
-  I’m a <b>Computer Science student</b> focused on software development and problem-solving, 
-  with a growing interest in building practical, real-world solutions. <br/>
- 
-</p>
-
----
-
-<!-- ABOUT -->
-<h3>About Me</h3>
-<ul>
-  <li>🎓 Computer Science student</li>
-  <li>💻 Interested in software development & artificial intelligence</li>
-  <li>🌱 Strengthening programming skills</li>
-</ul>
-
----
-
-<!-- TECH STACK -->
-<h3>Things I code with</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
-
----
-
-<!-- PROJECTS -->
-<h3>Projects</h3>
-<ul>
-  <li>📂 University coursework & assignments</li>
-  <li>🧠 Practice projects in Python & SQL</li>
-  <li>🛠 Personal projects to apply core CS concepts</li>
-</ul>
-<p><i>More projects coming as I continue learning and building.</i></p>
- 
----
-
-<!-- CONTACT -->
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/rawanmismail" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rawan28-" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
-<!-- FOOTER -->
+<!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EECDA3,100:EF629F&height=120&section=header&text=&animation=fadeIn"/>
+</p>
+
+<!-- ANIMATED TYPING TITLE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=600&size=36&duration=3500&pause=800&color=2D2D2D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rawan+%F0%9F%91%8B;Computer+Science+Student;Software+Developer+in+the+Making;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- TAGLINE -->
+<p align="center">
+  <i>Turning curiosity into code — one project at a time.</i>
+</p>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://github.com/rawanmismail">
+    <img src="https://img.shields.io/badge/GitHub-rawanmismail-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rawan28-">
+    <img src="https://img.shields.io/badge/LinkedIn-Rawan-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rawanmismail&style=flat-square&color=EF629F&label=Profile+Views" />
+</p>
+
+<br/>
+
+---
+
+## 🙋‍♀️ About Me
+
+I'm a **Computer Science student** with a passion for building real, useful things. I enjoy turning ideas into working software — whether it's a Python script that solves a real problem, a clean database design, or a web page that just *works*.
+
+- 🎓 &nbsp; Studying Computer Science
+- 💡 &nbsp; Fascinated by software development, databases, and AI
+- 🌱 &nbsp; Currently deepening my skills in Python, SQL, and web development
+- 🔭 &nbsp; Working on personal projects that apply core CS concepts
+- 🎯 &nbsp; Goal: build a portfolio that reflects growth, creativity, and impact
+- ✨ &nbsp; I believe good code is not just functional — it's readable and intentional
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Databases & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently Exploring**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 Python Practice | Algorithmic challenges and problem-solving exercises | Python |
+| 🗄️ Database Projects | Schema design, queries, and data modeling | SQL, SQLite |
+| 🌐 Web Projects | Frontend pages applying HTML/CSS fundamentals | HTML, CSS |
+| 📚 CS Coursework | University assignments covering core CS concepts | Python, SQL |
+
+> 💬 *More projects coming soon — I'm always building something new.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=EF629F&icon_color=EF629F&text_color=2D2D2D&rank_icon=github" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=EF629F&text_color=2D2D2D" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawanmismail&theme=rose_pine&hide_border=true&background=00000000&ring=EF629F&fire=EF629F&currStreakLabel=EF629F&sideLabels=2D2D2D&dates=2D2D2D&currStreakNum=2D2D2D&sideNums=2D2D2D" width="55%"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+📖  Data Structures & Algorithms
+🤖  Introduction to Machine Learning
+🌐  JavaScript & Frontend Development
+🗃️  Advanced SQL & Database Design
+```
+
+---
+
+## ✨ Fun Facts
+
+- ☕ &nbsp; Debugging goes better with coffee
+- 📚 &nbsp; I enjoy reading about tech, AI, and how the world is changing
+- 🎨 &nbsp; I care about clean, readable code as much as working code
+- 🌍 &nbsp; Dreaming of building products that make a real difference
+
+---
+
+## 📬 Let's Connect
+
+<p>
+  <a href="https://github.com/rawanmismail">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rawan28-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EECDA3,100:EF629F&height=100&section=footer"/>
 </p>
