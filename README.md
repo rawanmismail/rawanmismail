@@ -95,16 +95,6 @@ I'm a **Computer Science student** with a passion for building real, useful thin
 
 ---
 
-## 🌱 Currently Learning
-
-```text
-📖  Data Structures & Algorithms
-🤖  Introduction to Machine Learning
-🌐  JavaScript & Frontend Development
-🗃️  Advanced SQL & Database Design
-```
-
----
 
 ## ✨ Fun Facts
 
