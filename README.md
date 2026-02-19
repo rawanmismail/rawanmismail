@@ -96,15 +96,6 @@ I'm a **Computer Science student** with a passion for building real, useful thin
 ---
 
 
-## ✨ Fun Facts
-
-- ☕ &nbsp; Debugging goes better with coffee
-- 📚 &nbsp; I enjoy reading about tech, AI, and how the world is changing
-- 🎨 &nbsp; I care about clean, readable code as much as working code
-- 🌍 &nbsp; Dreaming of building products that make a real difference
-
----
-
 ## 📬 Let's Connect
 
 <p>
