@@ -82,7 +82,7 @@ I'm a **Computer Science student** with a passion for building real, useful thin
 ---
 
 ## 📊 GitHub Stats
-
+NOTE: Updates every 24 hours
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawanmismail&bg_color=00000000&color=EF629F&line=EF629F&point=2D2D2D&area=true&area_color=EECDA3&hide_border=true" width="90%"/>
 </p>
