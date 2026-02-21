@@ -87,11 +87,6 @@ NOTE: Updates every 24 hours
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawanmismail&bg_color=00000000&color=EF629F&line=EF629F&point=2D2D2D&area=true&area_color=EECDA3&hide_border=true" width="90%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=EF629F&text_color=2D2D2D" width="40%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawanmismail&theme=rose_pine&hide_border=true&background=00000000&ring=EF629F&fire=EF629F&currStreakLabel=EF629F&sideLabels=2D2D2D&dates=2D2D2D&currStreakNum=2D2D2D&sideNums=2D2D2D" width="48%"/>
-</p>
 
 ---
 
