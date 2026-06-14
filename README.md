@@ -25,7 +25,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 ## Tech Stack
 
-<p align="center">
+<p align="right">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -39,7 +39,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 ---
 
-## 💡 Skills & Strengths
+## Skills & Strengths
 
 - Problem-solving using structured programming and logical thinking  
 - Designing and implementing small-to-medium software systems  
@@ -52,7 +52,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Building Python-based projects to strengthen core CS skills  
 - Developing web interfaces using HTML/CSS  
