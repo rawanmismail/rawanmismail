@@ -25,7 +25,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 ## Tech Stack
 
-<p align="right">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -64,7 +64,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 ## Let’s Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/rawanmismail">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
