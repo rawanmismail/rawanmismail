@@ -26,7 +26,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,vscode&theme=dark" />
 </p>
 
 
