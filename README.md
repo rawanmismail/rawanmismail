@@ -8,7 +8,7 @@
   Computer Science Student | Software Engineering & Cloud Enthusiast
 </p>
 
-## 🙋‍♀️ About Me
+## About Me
 
 I am a Computer Science student at Heriot-Watt University with a strong focus on software engineering, cloud computing, and artificial intelligence.
 
