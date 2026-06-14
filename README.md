@@ -23,7 +23,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
