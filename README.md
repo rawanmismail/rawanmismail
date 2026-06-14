@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EECDA3,100:EF629F&height=120&section=header"/>
 </p>
 
----
+<h1 align="center">Hi, I'm Rawan Mohamed 👋</h1>
+<p align="center">
+  Computer Science Student | Software Engineering & Cloud Enthusiast
+</p>
 
 ## 🙋‍♀️ About Me
 
