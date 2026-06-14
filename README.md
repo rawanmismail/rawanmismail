@@ -62,7 +62,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 <p align="center">
 
