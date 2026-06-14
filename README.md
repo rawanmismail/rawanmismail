@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ About Me
 
-I am a Computer Science student at :contentReference[oaicite:0]{index=0} with a strong focus on software engineering, cloud computing, and artificial intelligence.
+I am a Computer Science student at Heriot-Watt University with a strong focus on software engineering, cloud computing, and artificial intelligence.
 
 I enjoy building structured, efficient, and scalable solutions by applying core computer science principles to real-world problems.
 
