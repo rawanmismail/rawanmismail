@@ -7,11 +7,16 @@
 
 ## 🙋‍♀️ About Me
 
-I am a Computer Science student at Heriot-Watt University with a strong interest in software engineering, cloud computing, and artificial intelligence.
+I am a Computer Science student at :contentReference[oaicite:0]{index=0} with a strong focus on software engineering, cloud computing, and artificial intelligence.
 
-I focus on building practical, structured software that applies core computer science principles to real-world problems — from backend logic and databases to web-based systems and cloud infrastructure.
+I enjoy building structured, efficient, and scalable solutions by applying core computer science principles to real-world problems.
 
-I am continuously developing my skills through coursework, self-learning, and hands-on projects in Python, SQL, and web development, alongside exposure to cloud technologies and AI systems.
+- 🎓 Computer Science student focused on software engineering fundamentals  
+- 💡 Interested in backend systems, databases, and AI applications  
+- 🧠 Strong foundation in Python, SQL, and web development  
+- ☁️ Hands-on exposure to AWS cloud computing (EC2)  
+- 🔭 Actively building projects that connect theory to real-world systems  
+- 🎯 Goal: Become a strong software engineer capable of building impactful systems  
 
 ---
 
@@ -31,16 +36,26 @@ I am continuously developing my skills through coursework, self-learning, and ha
 
 ---
 
-## 💡 Skills
+## 💡 Skills & Strengths
 
-- Strong foundation in programming logic and problem-solving  
-- Understanding of data structures and database fundamentals  
-- Ability to design and build small to medium-scale applications  
-- Experience working on structured academic and personal projects  
-- Exposure to AI concepts and prompt engineering  
-- Cloud computing fundamentals (AWS EC2)  
-- Team collaboration, communication, and leadership experience  
-- Adaptability and continuous learning mindset  
+- Problem-solving using structured programming and logical thinking  
+- Designing and implementing small-to-medium software systems  
+- Understanding of data structures, algorithms, and database concepts  
+- Experience with academic and personal development projects  
+- Exposure to AI concepts and prompt engineering techniques  
+- Basic cloud computing knowledge (AWS EC2)  
+- Strong teamwork, communication, and leadership skills  
+- Adaptable learner with consistent hands-on development mindset  
+
+---
+
+## 🚀 What I'm Working On
+
+- Building Python-based projects to strengthen core CS skills  
+- Developing web interfaces using HTML/CSS  
+- Expanding knowledge in cloud computing and system design  
+- Exploring AI applications and practical use cases  
+- Preparing for software engineering internship opportunities  
 
 ---
 
