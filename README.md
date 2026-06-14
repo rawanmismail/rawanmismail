@@ -14,14 +14,14 @@ I am a Computer Science student at Heriot-Watt University with a strong focus on
 
 I enjoy building structured, efficient, and scalable solutions by applying core computer science principles to real-world problems.
 
-- 🎓 Computer Science student focused on software engineering fundamentals  
-- 💡 Interested in backend systems, databases, and AI applications  
-- 🧠 Strong foundation in Python, SQL, and web development  
-- ☁️ Hands-on exposure to AWS cloud computing (EC2)  
-- 🔭 Actively building projects that connect theory to real-world systems  
-- 🎯 Goal: Become a strong software engineer capable of building impactful systems  
+🎓 Computer Science student focused on software engineering fundamentals  
+💡 Interested in backend systems, databases, and AI applications  
+🧠 Strong foundation in Python, SQL, and web development  
+☁️ Hands-on exposure to AWS cloud computing (EC2)  
+🔭 Actively building projects that connect theory to real-world systems  
+🎯 Goal: Become a strong software engineer capable of building impactful systems  
 
----
+
 
 ## Tech Stack
 
@@ -37,7 +37,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 </p>
 
----
+
 
 ## Skills & Strengths
 
@@ -50,7 +50,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 - Strong teamwork, communication, and leadership skills  
 - Adaptable learner with consistent hands-on development mindset  
 
----
+
 
 ## What I'm Working On
 
@@ -60,7 +60,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 - Exploring AI applications and practical use cases  
 - Preparing for software engineering internship opportunities  
 
----
+
 
 ## Let’s Connect
 
@@ -78,7 +78,7 @@ I enjoy building structured, efficient, and scalable solutions by applying core 
 
 </p>
 
----
+
 
 <!-- FOOTER WAVE -->
 <p align="center">
