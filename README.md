@@ -16,7 +16,7 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 ---
 
 <h2>Technical Skills</h2>
-
+`Github` • `VS Code`
 ---
 
 <h2>GitHub Analysis</h2>
@@ -37,21 +37,6 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 
 ---
 
-<h2>Development Roadmap</h2>
-
-```text
-[ ACTIVE DEVELOPMENT ]
-
-Programming Fundamentals   █████░░░░░  Learning
-Python                     ██████░░░░░  Developing
-Java                       ████░░░░░░░  Developing
-Git & GitHub               ██████░░░░░  Developing
-Software Engineering      ████░░░░░░░  University
-Cloud Technologies        ██░░░░░░░░░  Exploring
-Artificial Intelligence   ██░░░░░░░░░  Exploring
-```
-
----
 
 <div align="center">
 
