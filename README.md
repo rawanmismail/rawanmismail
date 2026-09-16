@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7F0,50:CDB4F6,100:B57EDC&height=160&section=header" width="100%"/>
 
-<h1 align="center"><strong>Hi, I am Rawan!</strong></h1>
+<h1><strong>Hi, I am Rawan!</strong></h1>
 
 </div>
 
