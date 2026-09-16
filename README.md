@@ -23,9 +23,8 @@ My interests include software engineering, cloud technologies, and artificial in
 
 <h2>GitHub Analysis</h2>
 
-![](https://github-readme-stats.shion.dev/api?username=rawanmismail&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rawanmismail&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rawanmismail&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=rawanmismail&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=rawanmismail&theme=default&hide_border=false)<br/>
+
 
 </div>
 
