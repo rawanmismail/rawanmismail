@@ -16,8 +16,11 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 ---
 
 <h2>Tools & Technology</h2>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Python](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Python" />
+</p>
 
 ---
 
@@ -31,10 +34,7 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 
 <img src="https://streak-stats.demolab.com/?user=rawanmismail&theme=default&hide_border=true" width="48%"/>
 
----
-<h2>A Technical Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 
