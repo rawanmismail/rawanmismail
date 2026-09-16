@@ -11,9 +11,7 @@
 
 <h2>About Me</h2>
 
-I am a first-year **BSc (Hons) Computer Science (Software Engineering)** student at Heriot-Watt University, building a strong foundation in programming, software development, and problem-solving.
-
-My interests include software engineering, cloud technologies, and artificial intelligence. I am focused on developing practical projects, strengthening my technical skills, and continuously learning through university coursework and independent exploration.
+I am a first-year **BSc (Hons) Computer Science (Software Engineering) student** at Heriot-Watt University, building a strong foundation in software architecture, algorithms, and systematic problem-solving. My academic path is explicitly focused on the principles of engineering clean, scalable, and maintainable software systems. Driven by a deep curiosity about modern technology infrastructures, my core technical interests include Software Engineering, Cloud Architecture, and Artificial Intelligence. I actively bridge the gap between academic theory and practical application by developing end-to-end projects, participating in technical workshops, and mastering industry-standard development workflows through targeted independent study.
 
 ---
 
