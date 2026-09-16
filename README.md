@@ -15,8 +15,9 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 
 ---
 
-<h2>Technical Skills</h2>
-`Github` • `VS Code`
+<h2>Tools & Technology</h2>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ---
 
 <h2>GitHub Analysis</h2>
@@ -29,6 +30,10 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 
 <img src="https://streak-stats.demolab.com/?user=rawanmismail&theme=default&hide_border=true" width="48%"/>
 
+---
+<h2>A Technical Quote</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 
