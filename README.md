@@ -23,17 +23,12 @@ My interests include software engineering, cloud technologies, and artificial in
 
 <h2>GitHub Analysis</h2>
 
-<div align="center">
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&hide_border=true&bg_color=ffffff&title_color=9B59B6&icon_color=E6A4C9&text_color=555555" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&hide_border=true&bg_color=ffffff&title_color=9B59B6&text_color=555555" width="48%"/>
+![](https://github-readme-stats.shion.dev/api?username=rawanmismail&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rawanmismail&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rawanmismail&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
-</div>
 
 ---
 
