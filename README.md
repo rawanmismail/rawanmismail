@@ -1,104 +1,156 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101B3D,100:00BFFF&height=220&section=header&text=RAWAN%20M.%20ISMAIL&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20COMPUTER%20SCIENCE&descAlignY=60&descSize=15&descColor=00FFFF" width="100%"/>
+
 # Rawan Mohamed Ismail
 
-### Computer Science (Software Engineering) Student
+### `Computer Science Student` • `Software Engineering`
 
-**Heriot-Watt University Dubai**
-
-[GitHub](https://github.com/rawanmismail) · [LinkedIn](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-rawanmismail-0D1117?style=flat-square&logo=github&logoColor=00FFFF)](https://github.com/rawanmismail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=flat-square&logo=linkedin&logoColor=00FFFF)](YOUR_LINKEDIN_URL)
 
 </div>
 
 ---
 
-## About Me
+## `01` // IDENTITY
 
-I am a first-year BSc (Hons) Computer Science (Software Engineering) student at Heriot-Watt University Dubai, building a strong foundation in programming, software development, and problem-solving.
+```yaml
+name: Rawan Mohamed Ismail
+username: rawanmismail
+role: Computer Science Student
+specialization: Software Engineering
+university: Heriot-Watt University Dubai
+status: Learning and Building
+```
 
-I am interested in developing practical software solutions and exploring cloud technologies and artificial intelligence. I am currently focused on strengthening my technical skills through university coursework, independent learning, and personal projects.
+I am a first-year **BSc (Hons) Computer Science (Software Engineering)** student at Heriot-Watt University Dubai, building a strong foundation in programming, software development, and problem-solving.
 
-I also serve as an Outreach Executive at the Heriot-Watt University Dubai Tech Club, where I contribute to building connections between students and the technology community.
+My interests include software engineering, cloud technologies, and artificial intelligence. I am focused on developing practical projects, strengthening my technical skills, and continuously learning through university coursework and independent exploration.
 
----
-
-## Technical Skills
-
-**Programming Languages**
-
-- Python
-- Java
-
-**Web Development**
-
-- HTML
-- CSS
-
-**Tools & Version Control**
-
-- Git
-- GitHub
+Outside the classroom, I contribute as an **Outreach Executive at the Heriot-Watt University Dubai Tech Club**, helping connect students with opportunities in technology.
 
 ---
 
-## Featured Projects
-
-> Selected projects demonstrating my learning and development in software engineering.
-
-### Python Projects
-
-A collection of Python programming exercises and projects developed while building my programming fundamentals.
-
-**Technologies:** Python
-
-[View my repositories](https://github.com/rawanmismail?tab=repositories)
-
-### Software Development Coursework
-
-Academic work focused on programming concepts, software development, and problem-solving.
-
-**Technologies:** Java · Python
-
-[View my repositories](https://github.com/rawanmismail?tab=repositories)
-
----
-
-## GitHub Statistics
+## `02` // TECHNICAL ARSENAL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub Statistics" />
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python,java" />
+
+### WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### TOOLS & WORKFLOW
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## `03` // PROJECT ARCHIVE
+
+<div align="center">
+
+> Selected projects documenting my progress in software development.
+
+</div>
+
+<!--
+  Replace PROJECT_NAME with your actual GitHub repository names.
+  Duplicate the cards as you publish more projects.
+-->
+
+<div align="center">
+
+<a href="https://github.com/rawanmismail?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rawanmismail&repo=PROJECT_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
+</a>
+
+</div>
+
+### Python Development
+
+Programming exercises and personal projects created while developing Python fundamentals and problem-solving skills.
+
+**Focus:** Logic • Functions • Data Structures • Problem Solving
+
+### Software Engineering Projects
+
+Academic and personal projects focused on applying software development concepts and building practical solutions.
+
+**Focus:** Programming • Design • Development
+
+[VIEW ALL REPOSITORIES →](https://github.com/rawanmismail?tab=repositories)
+
+---
+
+## `04` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%"/>
 
 </div>
 
 ---
 
-## Current Focus
+## `05` // DEVELOPMENT ROADMAP
 
-- Strengthening Python and Java programming fundamentals
-- Developing software development and problem-solving skills
-- Building and documenting personal projects
-- Exploring cloud computing and artificial intelligence
-- Preparing for future software engineering internships
+```text
+[ ACTIVE DEVELOPMENT ]
+
+Programming Fundamentals   ███████░░░  Learning
+Python                     ██████░░░░░  Developing
+Java                       ████░░░░░░░  Developing
+Git & GitHub               ██████░░░░░  Developing
+Software Engineering      ████░░░░░░░  University
+Cloud Technologies        ██░░░░░░░░░  Exploring
+Artificial Intelligence   ██░░░░░░░░░  Exploring
+```
+
+> Progress is measured through projects, practice, and consistent learning.
 
 ---
 
-## Connect
+## `06` // CURRENT OBJECTIVES
 
-I am interested in learning from others, collaborating on projects, and connecting with people in the technology community.
+- Strengthen Python and Java programming.
+- Build and publish practical software projects.
+- Improve algorithms and problem-solving.
+- Develop strong software engineering fundamentals.
+- Explore cloud computing and artificial intelligence.
+- Prepare for future software engineering internships.
 
-- **GitHub:** [@rawanmismail](https://github.com/rawanmismail)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+---
+
+## `07` // NETWORK
+
+<div align="center">
+
+**OPEN TO LEARNING · BUILDING · COLLABORATING**
+
+[![GitHub](https://img.shields.io/badge/GitHub-rawanmismail-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/rawanmismail)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](YOUR_LINKEDIN_URL)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Building skills. Creating solutions.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101B3D,100:00BFFF&height=120&section=footer" width="100%"/>
+
+`BUILDING THE FUTURE, ONE PROJECT AT A TIME.`
 
 </div>
