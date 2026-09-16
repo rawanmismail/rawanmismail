@@ -26,13 +26,8 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 
 <h2>GitHub Analysis</h2>
 
-<h2>GitHub Activity</h2>
+<h2>Top Projects</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=rawanmismail&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=rawanmismail&theme=default&hide_border=true" width="48%"/>
 
 
 </div>
