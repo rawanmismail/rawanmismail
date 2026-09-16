@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7F0,50:CDB4F6,100:B57EDC&height=160&section=header" width="100%"/>
 
-# Hi, I am Rawan
+<h1><b>Hi, I am Rawan</b></h1>
 Computer Science Student • Software Engineering
 
 </div>
@@ -18,11 +18,11 @@ My interests include software engineering, cloud technologies, and artificial in
 
 ---
 
-# Technical Skills
+<h2>Technical Skills</h2>
 
 ---
 
-# GitHub Analysis
+<h2>GitHub Analysis</h2>
 
 <div align="center">
 
@@ -36,7 +36,7 @@ My interests include software engineering, cloud technologies, and artificial in
 
 ---
 
-# My Development Roadmap
+<h2>Development Roadmap</h2>
 
 ```text
 [ ACTIVE DEVELOPMENT ]
