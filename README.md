@@ -1,30 +1,25 @@
-name: Metrics
+# Hi, I'm Rawan 👋
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+Computer Science (Software Engineering) student building across **software engineering, AI/ML, DevOps, cloud, and programming**.
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      # Classic overview card (header, activity, repositories)
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
+---
 
-      # In-depth language breakdown (clones repos to analyze languages precisely)
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/metrics.plugin.languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage, lines-of-code
-          plugin_languages_limit: 8
+### 🧰 Tools & Technologies
+
+---
+
+### 📊 GitHub Metrics
+
+![Metrics](./github-metrics/metrics.classic.svg)
+
+![Languages In-Depth](./github-metrics/metrics.plugin.languages.indepth.svg)
+
+---
+
+### 📈 GitHub Stats
+
+![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rawanmismail&hide_border=true)
+
+---
