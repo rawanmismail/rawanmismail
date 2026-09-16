@@ -149,7 +149,7 @@ Artificial Intelligence   ██░░░░░░░░░  Exploring
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101B3D,100:00BFFF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:6A1B9A,100:100B1F&height=120&section=footer" width="100%"/>
 
 `BUILDING THE FUTURE, ONE PROJECT AT A TIME.`
 
