@@ -10,7 +10,7 @@ Computer Science Student • Software Engineering
 
 ---
 
-# About Me
+<h2>About Me</h2>
 
 I am a first-year **BSc (Hons) Computer Science (Software Engineering)** student at Heriot-Watt University, building a strong foundation in programming, software development, and problem-solving.
 
