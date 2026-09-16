@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101B3D,100:00BFFF&height=220&section=header&text=RAWAN%20M.%20ISMAIL&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20COMPUTER%20SCIENCE&descAlignY=60&descSize=15&descColor=00FFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00BFFF&height=160&section=header" width="100%"/>
 
 # Rawan Mohamed Ismail
 
