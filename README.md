@@ -54,7 +54,7 @@ Artificial Intelligence   ██░░░░░░░░░  Exploring
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:6A1B9A,100:100B1F&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B57EDC,50:CDB4F6,100:F8D7F0&height=120&section=footer" width="100%"/>
 
 
 </div>
