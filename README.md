@@ -1,7 +1,6 @@
-# [Your Name]
+# Rawan
 
 **Software Engineering Student**  
-*Dubai, UAE* • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com)
 
 ---
 
@@ -28,7 +27,7 @@ Software Engineering student focused on building clean, modular, and testable so
 <div align="center">
 
 <!-- Classic Metrics Overview -->
-<img src="https://metrics.lecoq.io/yourusername?template=classic&config.timezone=Asia%2FDubai" alt="GitHub Overview Metrics" width="100%"/>
+<img src="https://metrics.lecoq.io/rawanmismail?template=classic&config.timezone=Asia%2FDubai" alt="GitHub Overview Metrics" width="100%"/>
 
 <br/><br/>
 
