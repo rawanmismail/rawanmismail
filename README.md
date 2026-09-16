@@ -3,9 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1F,50:6A1B9A,100:F72585&height=160&section=header" width="100%"/>
 
-# Rawan Mohamed Ismail
-
-### `Computer Science Student` • `Software Engineering`
+# Hi, I am Rawan
+Computer Science Student • Software Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-rawanmismail-0D1117?style=flat-square&logo=github&logoColor=00FFFF)](https://github.com/rawanmismail)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=flat-square&logo=linkedin&logoColor=00FFFF)](YOUR_LINKEDIN_URL)
