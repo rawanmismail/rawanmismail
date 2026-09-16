@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1F,50:6A1B9A,100:F72585&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7F0,50:CDB4F6,100:B57EDC&height=160&section=header" width="100%"/>
 
 # Hi, I am Rawan
 Computer Science Student • Software Engineering
