@@ -25,11 +25,13 @@ My interests include software engineering, cloud technologies, and artificial in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF" width="100%"/>
+<div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=rawanmismail&show_icons=true&hide_border=true&bg_color=ffffff&title_color=9B59B6&icon_color=E6A4C9&text_color=555555" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmismail&layout=compact&hide_border=true&bg_color=ffffff&title_color=9B59B6&text_color=555555" width="48%"/>
+
+</div>
 
 </div>
 
