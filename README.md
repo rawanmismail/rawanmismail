@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1025,50:7B2CBF,100:FF4FA3&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1F,50:6A1B9A,100:F72585&height=160&section=header" width="100%"/>
 
 # Rawan Mohamed Ismail
 
