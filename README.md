@@ -48,23 +48,12 @@ My current interests include **software engineering, cloud technologies, artific
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Python** · **Java** · **HTML** · **CSS** · **Git** · **GitHub**
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 
-
-### 🚀 More projects coming soon
-
-I am continuously building, experimenting, and documenting what I learn.
 
 
 
