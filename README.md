@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F2F2F2&height=160&section=header" width="100%"/>
 
 <h1><strong>Hi, I am Rawan!</strong></h1>
 
@@ -46,6 +45,14 @@ My current interests include **software engineering, cloud technologies, artific
 
 </div>
 
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub Isometric Contribution Calendar" width="100%"/>
+
+</div>
 
 
 
