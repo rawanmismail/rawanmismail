@@ -46,13 +46,7 @@ My current interests include **software engineering, cloud technologies, artific
 </div>
 
 
-## GitHub Activity
 
-<div align="center">
-
-<img src="./github-metrics.svg" alt="GitHub Isometric Contribution Calendar" width="100%"/>
-
-</div>
 
 
 
