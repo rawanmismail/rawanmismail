@@ -19,7 +19,7 @@ I am a first-year **BSc (Hons) Computer Science (Software Engineering) student**
 <p align="left">
   <img src="https://shields.io" alt="GitHub" />
   <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Python" />
+
 </p>
 
 ---
