@@ -1,47 +1,71 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7F0,50:CDB4F6,100:B57EDC&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F2F2F2&height=160&section=header" width="100%"/>
 
 <h1><strong>Hi, I am Rawan!</strong></h1>
 
-</div>
+<h3>Computer Science · Software Engineering</h3>
 
----
-
-<h2>About Me</h2>
-
-I am a first-year **BSc (Hons) Computer Science (Software Engineering) student** at Heriot-Watt University, building a strong foundation in software architecture, algorithms, and systematic problem-solving. My academic path is explicitly focused on the principles of engineering clean, scalable, and maintainable software systems. Driven by a deep curiosity about modern technology infrastructures, my core technical interests include Software Engineering, Cloud Architecture, and Artificial Intelligence. I actively bridge the gap between academic theory and practical application by developing end-to-end projects, participating in technical workshops, and mastering industry-standard development workflows through targeted independent study.
-
----
-
-<h2>Tools & Technology</h2>
-<p align="left">
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
-
+<p>
+First-Year Student at Heriot-Watt University (Dubai Campus)
 </p>
 
----
+<br>
 
-<h2>GitHub Analysis</h2>
+<a href="https://github.com/rawanmismail">
+  <img src="https://img.shields.io/badge/GitHub-rawanmismail-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<h2>Top Projects</h2>
-
-
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 
-</div>
+
+## About Me
+
+I am a first-year **BSc (Hons) Computer Science (Software Engineering)** student at **Heriot-Watt University Dubai**, developing a strong foundation in programming, software development, and problem-solving.
+
+I enjoy turning concepts I learn into practical projects and using each project to strengthen my understanding of how software is designed, developed, and maintained.
+
+My current interests include **software engineering, cloud technologies, artificial intelligence, and emerging technologies**. I am continuously developing my technical skills through university coursework, independent learning, personal projects, and involvement in the technology community.
 
 
----
 
+## Currently
+
+| | |
+|---|---|
+| 🔭 **Working on** | Building programming fundamentals and personal software projects |
+| 👯 **Collaborating on** | Student technology projects, hackathons, and software initiatives |
+| 🤝 **Looking for** | Opportunities to learn, contribute, and collaborate with other developers |
+
+
+
+## Technical Skills
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B57EDC,50:CDB4F6,100:F8D7F0&height=120&section=footer" width="100%"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+**Python** · **Java** · **HTML** · **CSS** · **Git** · **GitHub**
+
+</div>
+
+
+
+### 🚀 More projects coming soon
+
+I am continuously building, experimenting, and documenting what I learn.
+
+
+
+
