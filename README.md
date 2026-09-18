@@ -12,13 +12,6 @@ First-Year Student at Heriot-Watt University (Dubai Campus)
 
 <br>
 
-<a href="https://github.com/rawanmismail">
-  <img src="https://img.shields.io/badge/GitHub-rawanmismail-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </div>
 
@@ -46,7 +39,7 @@ My current interests include **software engineering, cloud technologies, artific
 
 ## Technical Skills
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
