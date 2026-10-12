@@ -36,12 +36,14 @@ My current interests include **software engineering, cloud technologies, artific
 
 
 
+
 ## Technical Skills
 
 <div align="left">
 
 <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </div>
 
