@@ -18,7 +18,7 @@ First-Year Student at Heriot-Watt University (Dubai Campus)
 
 ## About Me
 
-I am a first-year **BSc (Hons) Computer Science (Software Engineering)** student at **Heriot-Watt University Dubai**, developing a strong foundation in programming, software development, and problem-solving.
+I am a first-year **BSc (Hons) Computer Science (Software Engineering)** student at **Heriot-Watt University**, developing a strong foundation in programming, software development, and problem-solving.
 
 I enjoy turning concepts I learn into practical projects and using each project to strengthen my understanding of how software is designed, developed, and maintained.
 
