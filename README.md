@@ -30,9 +30,9 @@ My current interests include **software engineering, cloud technologies, artific
 
 | | |
 |---|---|
-| 🔭 **Working on** | Building programming fundamentals and personal software projects |
-| 👯 **Collaborating on** | Student technology projects, hackathons, and software initiatives |
-| 🤝 **Looking for** | Opportunities to learn, contribute, and collaborate with other developers |
+|  **Working on** | Building programming fundamentals and personal software projects |
+|  **Collaborating on** | Student technology projects, hackathons, and software initiatives |
+|  **Looking for** | Opportunities to learn, contribute, and collaborate with other developers |
 
 
 
